@@ -1,4 +1,4 @@
-# Assignment 2 <br>
+# PHP 2x2 Multiplier <br>
 ## Goal <br>
  - Become familiar with PHP
  - Use PHP with XAMPP to make a local server that can host PHP files
